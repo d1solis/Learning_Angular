@@ -8,7 +8,7 @@ Angular is a web framework that allows teams to deliver web apps with confidence
 
 ## Three Core Values
 1. Apps developers love to build
-2. Apps users love to us
+2. Apps users love to use
 3. Community where everyone feels welcome
 
 ## Why Angular?
