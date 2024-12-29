@@ -29,4 +29,4 @@ Angular is a web framework that allows teams to deliver web apps with confidence
 
 ## Video
 This is a beginner-friendly, 8-video series course that will take you from setup to building your first Angular App!
-- Link to the video here: https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&si=bvYvwYIg-Ozr6JvE
+- Link to playlist: https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&si=bvYvwYIg-Ozr6JvE
